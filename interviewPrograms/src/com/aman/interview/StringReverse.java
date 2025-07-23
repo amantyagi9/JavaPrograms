@@ -7,7 +7,7 @@ public class StringReverse {
 
 		String str = "Javaken";
 		
-//		using reverse api
+//		Using reverse method
 		
 		StringBuilder sb=new StringBuilder(str);
 
