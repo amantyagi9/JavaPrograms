@@ -1,6 +1,6 @@
 package com.aman.hackerrank;
 
-// Problem: https://www.hackerrank.com/challenges/service-lane
+// Problem link: https://www.hackerrank.com/challenges/service-lane
 
 /*
  
